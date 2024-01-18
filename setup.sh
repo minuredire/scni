@@ -233,9 +233,9 @@ mkdir -p /usr/local/etc/xray
 
 # // String / Request Data
 sub=$(</dev/urandom tr -dc a-z0-9 | head -c4)
-DOMAIN=joysstore.my.id
-SUB_DOMAIN=${sub}.joysstore.my.id
-NS_DOMAIN=ns.${sub}.joysstore.my.id
+DOMAIN=bricell.biz.id
+SUB_DOMAIN=${sub}.bricell.biz.id
+NS_DOMAIN=ns.${sub}.bricell.biz.id
 CF_ID=rizaddinmaulana@gmail.com
 CF_KEY=b550194d08b2f5926c08ed480d79512852572
 set -euo pipefail
