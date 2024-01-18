@@ -595,7 +595,7 @@ gg="AM"
 fi
 curl -sS ifconfig.me > /etc/myipvps
 echo  " "
-echo "=====================-[ ILHAM STORE TUNNEL ]-===================="
+echo "=====================-[ JOYS STORE TUNNEL ]-===================="
 echo  ""
 echo  "------------------------------------------------------------"
 echo  ""
@@ -634,7 +634,7 @@ echo ""
 echo  ""
 echo  "------------------------------------------------------------"
 echo  ""
-echo  "================-[ SCRIPT XRAY ILHAM STORE ]-================"
+echo  "================-[ SCRIPT XRAY JOYS STORE ]-================"
 echo -e ""
 echo  ""
 echo  "" | tee -a log-install.txt
